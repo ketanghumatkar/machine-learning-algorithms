@@ -18,3 +18,6 @@ Classify the fruite based mass, height, width, color_score
 
 ## Verdict: 
 For the supplied data, KNN with k=5 has hightest accurancy, so will follow that algorithm.
+
+## Github Link
+https://github.com/ketanghumatkar/machine-learning-algorithms
